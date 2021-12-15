@@ -1,0 +1,176 @@
+header {
+  margin: 25px;
+  padding: 0;
+  text-align: center;
+}
+body {
+  background-color: lightgrey;
+}
+
+.colors {
+  border: 1px solid black;
+  border-radius: 15px;
+  margin: 25px;
+  padding: 10px;
+  text-align: center;
+}
+
+.cards_wrap {
+  display: inline-flex;
+  text-align: center;
+}
+
+.red_Card {
+  margin: 25px;
+  background-color: #FF0F05;
+  color : whitesmoke;
+  padding: 5px 10px;
+  border-radius: 5px;
+  max-width: 100px;
+  max-height: 100px;
+  position: relative;
+}
+
+.blue_Card {
+  margin: 25px;
+  background-color: #203AFF;
+  color : whitesmoke;
+  padding: 5px 10px;
+  border-radius: 5px;
+  max-width: 100px;
+  max-height: 100px;
+  position: relative;
+}
+
+.green_card {
+  margin: 25px;
+  background-color: green;
+  color : whitesmoke;
+  padding: 5px 10px;
+  border-radius: 5px;
+  max-width: 100px;
+  max-height: 100px;
+  position: relative;
+}
+
+.yellow_Card {
+  margin: 25px;
+  background-color: #FFF701;
+  padding: 5px 10px;
+  border-radius: 5px;
+  max-width: 100px;
+  max-height: 100px;
+  position: relative;
+}
+
+.white_card {
+  margin: 25px;
+  background-color: #F8F5FF;
+  padding: 5px 10px;
+  border-radius: 5px;
+  max-width: 100px;
+  max-height: 100px;
+  position: relative;
+}
+
+.black_card {
+  margin: 25px;
+  background-color: #000F05;
+  color: #fff;
+  padding: 5px 10px;
+  border-radius: 5px;
+  max-width: 100px;
+  max-height: 100px;
+  position: relative;
+}
+
+.Fonts {
+  border: 1px solid black;
+  border-radius: 15px;
+  margin: 25px;
+  padding: 5px;
+  display: flex;
+}
+
+.headerss3 {
+  flex-direction: column;
+  flex-wrap: wrap;
+  padding: 5px;
+  margin: 1px;
+}
+
+.font_ss3 {
+  font-family: 'Source Sans 3', sans-serif;
+  flex-direction: column;
+  flex-wrap: wrap;
+  flex: 25px;
+  padding-top: 50px;
+}
+
+.font_ssp {
+  font-family: 'Source Sans Pro', sans-serif;
+  flex-direction: column;
+  flex-wrap: wrap;
+  flex: 25px;
+  padding-top: 50px;
+}
+
+.font_os {
+  font-family: 'Open Sans', sans-serif;
+  flex-direction: column;
+  flex-wrap: wrap;
+  flex: 25px;
+  padding-top: 50px;
+  padding-right: 5px;
+}
+
+.text_styles {
+  border: 1px solid black;
+  border-radius: 15px;
+  margin: 25px;
+  padding: 25px;
+  display: flex;
+}
+
+.Title {
+  font-size: 20px;
+}
+
+.H1_Heading {
+  font-family: 'Open Sans', sans-serif;
+  flex-direction: column;
+  flex-wrap: wrap;
+  flex: 25px;
+  padding-top: 50px;
+}
+
+.h1_header {
+  font-weight: 700px (bold);
+  font-size: 26px;
+}
+
+.Subheading {
+  font-family: 'Source Sans Pro', sans-serif;
+  flex-direction: column;
+  flex-wrap: wrap;
+  flex: 25px;
+  padding-top: 50px;
+}
+
+.h2_format {
+  font-weight: 500;
+  font-size: 18px;
+}
+
+.Psection {
+  font-family: 'Source Sans Pro', sans-serif;
+  flex-direction: column;
+  flex-wrap: wrap;
+  flex: 25px;
+  padding-top: 50px;
+}
+
+.p_format {
+  font-weight: 400 (regular);
+  font-size: 14px;
+}
